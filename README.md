@@ -9,6 +9,8 @@ Flow of how you should use the scripts:
 
 *You might not want to delete the database so just do steps 1-3 to get a hang of how to use the program
 
-*files used to store data in is in the files folder
-*output is stored in output folder
+Folders required to create:
+1. files (To store input files)
+2. output (For program to store its output)
+
 
